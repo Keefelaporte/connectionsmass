@@ -1,0 +1,26 @@
+{
+  "name": "connectionsmass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.0.2",
+    "sequelize": "^5.21.3",
+    "sequelize-cli": "^5.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keefelaporte/connectionsmass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keefelaporte/connectionsmass/issues"
+  },
+  "homepage": "https://github.com/Keefelaporte/connectionsmass#readme"
+}
